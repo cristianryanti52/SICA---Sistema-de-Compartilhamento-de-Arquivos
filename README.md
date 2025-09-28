@@ -26,9 +26,6 @@ sica/
 
 └── pasta_servidor/ # Diretório onde os arquivos do servidor ficam armazenados
 
-yaml
-Copiar código
-
 ---
 
 ## ⚙️ Como executar
