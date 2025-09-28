@@ -19,8 +19,11 @@ Ele permite a comunicação entre **Cliente** e **Servidor** para realizar opera
 ## 📂 Estrutura de Pastas
 
 sica/
+
 ├── Cliente.java
+
 ├── Servidor.java
+
 └── pasta_servidor/ # Diretório onde os arquivos do servidor ficam armazenados
 
 yaml
